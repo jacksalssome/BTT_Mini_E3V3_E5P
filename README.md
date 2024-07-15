@@ -1,1 +1,1 @@
-# BTT_Mini_E3V3_E5P
+Jacksalssome's repo for marlin firware for BTT mini E3 V3, with stock screen
